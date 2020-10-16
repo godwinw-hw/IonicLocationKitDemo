@@ -1,0 +1,13 @@
+{
+  "appId": "com.rayudu.ioniclocationkitdemo",
+  "appName": "IonicLocationKitDemo",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

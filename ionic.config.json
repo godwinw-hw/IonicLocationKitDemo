@@ -1,0 +1,8 @@
+{
+  "name": "IonicLocationKitDemo",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}

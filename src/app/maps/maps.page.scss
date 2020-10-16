@@ -1,0 +1,43 @@
+
+ion-content ion-toolbar {
+  --background: translucent;
+}
+#map {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 0;
+    margin: 0 auto;
+  }
+.swiper-slide{
+   width: 70% !important;
+  
+}
+
+.slide-image {
+   height: 60%;
+   width: 100%;
+   object-fit: cover;
+}
+
+ion-card {
+   height: 160px;
+   width: 100%;
+}
+
+ion-card-content, .card-content-md{
+   text-align: left;
+   padding: 0 0 0 3px;
+}
+ion-slides {
+  margin-top: 300px;
+ 
+}
+h2{
+align-items: center;
+text-align: center;
+}
+h3{
+  align-items: center;
+  text-align: center;
+}
